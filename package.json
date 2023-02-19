@@ -1,0 +1,14 @@
+{
+  "name": "cavezerobackend",
+  "version": "1.0.0",
+  "description": "cavezero backend files",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cavezero"
+  ],
+  "author": "Rhulani G. Hlungwani",
+  "license": "ISC"
+}
